@@ -14,10 +14,10 @@ If training time and type matches with customer’s choices then the customer cr
 
 Based on the above scenario, write a Complete CODE(Total marks: 20) where the following requirements must be implemented:
 
-1. Classes, variables and methods will be designed according to object oriented concepts. Marks: 8
+1. Classes, variables and methods will be designed according to object oriented concepts.
 
-2. Encapsulation will be implemented. Marks:5
+2. Encapsulation will be implemented. 
 
-3. Inheritance will be implemented. Marks: 7
+3. Inheritance will be implemented. 
 
-Have you used encapsulation concept in your code. Justify your answer based on your code (marks: 5
+Have you used encapsulation concept in your code. Justify your answer based on your code 
