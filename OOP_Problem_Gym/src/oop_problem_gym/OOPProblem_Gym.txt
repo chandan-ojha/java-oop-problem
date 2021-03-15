@@ -1,0 +1,23 @@
+Suppose, you are assigned to develop an application to manage the activities of a Gym named “Fitness”. 
+There are two types of trainers in the gym – senior trainers and junior trainers. 
+
+Each trainer has attributes like id, name, training type (training type will be either Aerobic or Flexibility), training time (training time will be either Morning shift or Day shift), and salary and equipment information (the trainer uses the equipment to train the trainees).
+Senior trainers have another attribute that is age. All trainers can calculate their annual salary and discount amount. 
+Senior trainer gets 10% of salary as discount . 
+But junior trainer gets 4% of salary as discount . 10000BDT is added with senior trainer's annual salary and 5000BDT is added with junior trainer's annual salary. 
+
+There are different types of equipment in the gym. 
+Each equipment’s id, name and availability (whether the equipment are available in the gym or not) are also stored in the system.
+Customers can create account in the system. Before creating account, a customer checks all trainers’ training time and type in trainers’ list. 
+If training time and type matches with customer’s choices then the customer creates account with their name, id and phone number.
+
+
+Based on the above scenario, write a Complete CODE(Total marks: 20) where the following requirements must be implemented:
+
+1. Classes, variables and methods will be designed according to object oriented concepts. Marks: 8
+
+2. Encapsulation will be implemented. Marks:5
+
+3. Inheritance will be implemented. Marks: 7
+
+Have you used encapsulation concept in your code. Justify your answer based on your code (marks: 5
