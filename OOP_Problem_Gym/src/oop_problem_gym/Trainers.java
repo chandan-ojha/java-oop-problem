@@ -7,5 +7,6 @@ public class Trainers {
     public String TrainingType;
     public String TrainingTime;
     private double salary;
+    Equipment equipment;
     
 }

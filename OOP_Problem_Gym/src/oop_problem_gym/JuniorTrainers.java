@@ -1,6 +1,6 @@
 
 package oop_problem_gym;
 
-public class JuniorTrainers {
+public class JuniorTrainers extends Trainers {
     
 }
